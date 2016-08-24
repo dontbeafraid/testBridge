@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppA</string>
+    <string name="register">등록</string>
+    <string name="loading">로딩중....</string>
+    <string name="skt_des">이것은 SKT 부가서스 설명입니다.</string>
+    <string name="kt_des">이것은 KT 부가서스 설명입니다.</string>
+    <string name="lgu_des">이것은 LGU+ 부가서스 설명입니다.</string>
+    
+    <string name="input_email">Email 주소를 입력하세요.</string>
+    <string name="complete">완료</string>
+    
+    <string name="wait_reigster_des">부가서비스 등록을 기다리고 있습니다.</string>
+    <string name="complete_reigster_des">"부가서비스 등록이 완료되었습니다..\n입력한 email로 주문내역서가 발송되었습니다."</string>
+
+</resources>

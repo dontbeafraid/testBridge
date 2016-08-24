@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppA</string>
+    <string name="register">Register</string>
+    <string name="loading">Loading....</string>
+    <string name="skt">SKT</string>
+    <string name="kt">KT</string>
+    <string name="lgu">LGU+</string>
+    <string name="skt_des">This is SKT Additional Service description.</string>
+    <string name="kt_des">This is KT Additional Service description.</string>
+    <string name="lgu_des">This is LGU+ Additional Service description.</string>
+    
+    <string name="input_email">input Email Address</string>
+    <string name="complete">Complete</string>
+    
+    <string name="wait_reigster_des">Waiting to register additional service.</string>
+    <string name="complete_reigster_des">"Complete to register additional service.\nThe order statement has been sent to the entered email."</string>
+
+</resources>

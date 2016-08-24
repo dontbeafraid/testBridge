@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_test_mode">테스트 모드</string>
+    <string name="title_operator">사업자 선택</string>
+    <string name="title_email">Email 입력</string>
+    <string name="skt">SKT</string>
+    <string name="kt">KT</string>
+    <string name="lgu">LGU+</string>
+    
+    <string name="save">저장</string>
+</resources>
